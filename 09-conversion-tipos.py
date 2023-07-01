@@ -1,0 +1,11 @@
+entero = input("Ingrese un numero entero: ")
+entero = int(entero)
+print(type(entero))
+flotante = input("Ingrese un numero decimal: ")
+flotante = float(flotante)
+print(type(flotante))
+
+# int()
+# str()
+# float()
+# bool()
