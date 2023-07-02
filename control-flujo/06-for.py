@@ -12,3 +12,7 @@ for i in range(5):
         break
 else:
     print("No encontrado")
+
+# iterando un string
+for char in "Julio Alvarez":
+    print(char)
